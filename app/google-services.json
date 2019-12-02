@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49388247468",
+    "firebase_url": "https://daniel-beleza.firebaseio.com",
+    "project_id": "daniel-beleza",
+    "storage_bucket": "daniel-beleza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49388247468:android:732e72bed8158c5ab58209",
+        "android_client_info": {
+          "package_name": "com.danielbeleza.diagonalee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49388247468-js6epj0mhge4cat1im0uvrqofc261rcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUXL1mZBi0UriW740NV4BGHR8I3LuR08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49388247468-js6epj0mhge4cat1im0uvrqofc261rcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
